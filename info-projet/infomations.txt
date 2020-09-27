@@ -1,0 +1,19 @@
+Stack :
+Php 7.3.5
+Laravel 7.28.3
+Mysql 5.7.26
+Bootstrap
+
+Pour migrer la bdd lancer la commande suivant a la racine du projet
+
+php artisan migrate:refresh
+
+creer une bdd nommée: todolist
+
+
+Temps passé : 14h
+
+Utilisateur test
+
+login :john@doe.fr
+pw : test123456
