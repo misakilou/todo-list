@@ -2,6 +2,7 @@ Stack :
 Php 7.3.5
 Laravel 7.28.3
 Mysql 5.7.26
+Jquery
 Bootstrap
 
 Pour migrer la bdd lancer la commande suivant a la racine du projet
